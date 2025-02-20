@@ -8,7 +8,7 @@ I'm a Student with a passion for IT. I love exploring new technologies and worki
 
 💻 HTML, CSS, FLUTTER, DART, C 
 
-  ✅I Know little much only but their is one quotes that "Every expert was once a beginner."
+  ✅I Know little much only but there is one quotes that "Every expert was once a beginner."
         
 🔥 Projects
 
