@@ -1,27 +1,82 @@
-🌟 **About Me**
+# 👋 Hi, I'm Puskar Kumar Thakur
 
-👋 Hello, I'm Puskar Kumar Thakur.
+🎓 BIT Student @ Tribhuvan University  
+💻 Frontend Developer | 📱 Flutter Enthusiast | 🎯 Project Builder  
+📍 Based in Nepal | 🌱 Lifelong Learner
 
-I'm a Student with a passion for IT. I love exploring new technologies and working on innovative projects that make an impact. 🚀
+---
 
-🛠️ Skills
+## 🧑‍💻 About Me
 
-💻 HTML, CSS, FLUTTER, DART, C 
+I'm currently pursuing my **Bachelor in Information Technology (BIT)** at **Tribhuvan University (Batch 2081)**. I enjoy crafting modern, interactive websites and mobile apps using technologies like **Tailwind CSS** and **Flutter**.  
 
-  ✅I Know little much only but there is one quotes that "Every expert was once a beginner."
-        
-🔥 Projects
+My passion lies in building tools that support **students**, whether through resource-sharing websites, academic dashboards, or personal projects.
 
-Here are some cool projects I've worked on:
+---
 
-🚀 [Coder's Hustle 1.0 Myself] – It's a website for my clz.
+## 🚀 Tech Stack
 
-🛠 [Animated Login Page] – Just copy from youtube but edit myself.
+**Languages:**  
+`C` `C++` `Python` `JavaScript` `Dart`
 
-📫 Let's Connect!
+**Frontend:**  
+`HTML` `CSS` `Tailwind CSS` `Alpine.js` `React`
 
-📧 Email: [puskarkumarthakur14@gmail.com]
+**Mobile App:**  
+`Flutter`
 
-🔗 LinkedIn: [www.linkedin.com/in/puskar-kumar-thakur-114775324]
+**Other Tools:**  
+`Git` `GitHub` `VS Code` `Figma` `Canva`
 
-🐙 GitHub: [https://github.com/thakurpuskar]
+---
+
+## 🌟 Featured Projects
+
+### 🔗 [BIT Batch 2081 Website](https://github.com/puskarkumarthakur/bit2081)
+> 🎓 A central hub for BIT students featuring syllabus, notes, teacher info, and batchmate profiles.  
+> 💻 Built with: HTML, Tailwind CSS, Alpine.js
+
+---
+
+### 📱 [Portfolio Website](https://puskarthakur.vercel.app/)
+> 🧑‍🎨 Showcasing my work, tech stack, resume, and profile card UI.  
+> 💡 Built using responsive and clean Tailwind design principles.
+
+---
+
+### 🧾 [E-commerce Project Report (Daraz Clone)](https://github.com/puskarkumarthakur)
+> 📈 A professional academic report based on Nepal’s leading e-commerce platform—Daraz.  
+> 🎯 Focused on business planning and system modeling for BBA submission.
+
+---
+
+### 🧃 Green Rush Juices Pvt. Ltd. – Business Plan
+> 🥤 A complete business proposal for launching a health-focused juice bar brand.  
+> 📝 Developed as part of an entrepreneurship course.
+
+---
+
+### 🏫 [CCT Thakur Campus Website](https://cctthakur.vercel.app/)
+> 🏫 Campus-focused web design prototype for Central Campus of Technology (Hattisar), where I study.
+
+---
+
+## 🔍 Currently Exploring
+
+- Building mobile apps with **Flutter & Dart**
+- Sharing resources for **BIT students**
+- Deepening knowledge in **UI/UX Design** and **App Performance**
+- Creating academic & personal websites with **Tailwind + Alpine.js**
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [puskar.thakur.official@gmail.com](mailto:puskarkumarthakur@gmail.com)  
+- 🌐 Portfolio: [puskarthakur.vercel.app](https://puskarthakur.vercel.app/)  
+- 📸 Instagram: [@puskarthakur14](https://www.instagram.com/puskarthakur14/)  
+- 💼 LinkedIn: [linkedin.com/in/puskar-kumar-thakur-114775324](https://www.linkedin.com/in/puskar-kumar-thakur-114775324)
+
+---
+
+> “Stay curious. Keep building. Share knowledge.” – *Puskar*
