@@ -17,16 +17,16 @@ My passion lies in building tools that support **students**, whether through res
 ## 🚀 Tech Stack
 
 **Languages:**  
-`C` `C++` `Python` `JavaScript` `Dart`
+`C` `C++` `JavaScript` `Dart`
 
 **Frontend:**  
-`HTML` `CSS` `Tailwind CSS` `Alpine.js` `React`
+`HTML` `CSS` `Tailwind CSS`
 
 **Mobile App:**  
 `Flutter`
 
 **Other Tools:**  
-`Git` `GitHub` `VS Code` `Figma` `Canva`
+`Git` `GitHub` `VS Code` `Canva`
 
 ---
 
