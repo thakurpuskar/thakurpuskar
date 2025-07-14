@@ -60,7 +60,7 @@ My passion lies in building tools that support **students**, whether through res
 
 ## 📬 Let's Connect
 
-- 📧 Email: [puskarkumarthakur@gmail.com](mailto:puskarkumarthakur@gmail.com)  
+- 📧 Email: [puskarkumarthakur14@gmail.com](mailto:puskarkumarthakur14@gmail.com)  
 - 🌐 Portfolio: [puskarthakur.vercel.app](https://puskarthakur.vercel.app/)  
 - 📸 Instagram: [@puskarthakur14](https://www.instagram.com/puskarthakur14/)  
 - 💼 LinkedIn: [linkedin.com/in/puskar-kumar-thakur-114775324](https://www.linkedin.com/in/puskar-kumar-thakur-114775324)
