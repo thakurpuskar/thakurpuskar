@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Puskar Kumar Thakur
 
 🎓 BIT Student @ Tribhuvan University  
-💻 Frontend Developer | 📱 Flutter Enthusiast | 🎯 Project Builder  
+💻 Frontend Developer  
 📍 Based in Nepal | 🌱 Lifelong Learner
 
 ---
@@ -41,18 +41,6 @@ My passion lies in building tools that support **students**, whether through res
 ### 📱 [Portfolio Website](https://puskarthakur.vercel.app/)
 > 🧑‍🎨 Showcasing my work, tech stack, resume, and profile card UI.  
 > 💡 Built using responsive and clean Tailwind design principles.
-
----
-
-### 🧾 [E-commerce Project Report (Daraz Clone)](https://github.com/puskarkumarthakur)
-> 📈 A professional academic report based on Nepal’s leading e-commerce platform—Daraz.  
-> 🎯 Focused on business planning and system modeling for BBA submission.
-
----
-
-### 🧃 Green Rush Juices Pvt. Ltd. – Business Plan
-> 🥤 A complete business proposal for launching a health-focused juice bar brand.  
-> 📝 Developed as part of an entrepreneurship course.
 
 ---
 
