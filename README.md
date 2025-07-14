@@ -32,7 +32,7 @@ My passion lies in building tools that support **students**, whether through res
 
 ## 🌟 Featured Projects
 
-### 🔗 [BIT Batch 2081 Website](https://github.com/puskarkumarthakur/bit2081)
+### 🔗 ([BIT Batch 2081 Website](https://thakurpuskar.github.io/BIT-Batch-2081/))
 > 🎓 A central hub for BIT students featuring syllabus, notes, teacher info, and batchmate profiles.  
 > 💻 Built with: HTML, Tailwind CSS, Alpine.js
 
