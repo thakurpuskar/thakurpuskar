@@ -1,70 +1,20 @@
-# 👋 Hi, I'm Puskar Kumar Thakur
+👋 Hi, I’m Puskar Kumar Thakur
 
-🎓 BIT Student @ Tribhuvan University  
-💻 Frontend Developer  
-📍 Based in Nepal | 🌱 Lifelong Learner
+🎓 Bachelor of Information Technology (BIT) Student at Tribhuvan University
+💻 Frontend Developer | Tech Enthusiast | Problem Solver
+📍 Dharan, Nepal | 🌱 Lifelong Learner
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+I’m a BIT student at Tribhuvan University (Batch 2081) with a strong interest in Frontend Development, UI/UX, and mobile application development.
 
-I'm currently pursuing my **Bachelor in Information Technology (BIT)** at **Tribhuvan University (Batch 2081)**. I enjoy crafting modern, interactive websites and mobile apps using technologies like **Tailwind CSS** and **Flutter**.  
+I enjoy transforming ideas into modern, responsive, and user-friendly digital experiences. My current focus is on building websites and applications using technologies such as HTML, CSS, Tailwind CSS, JavaScript, Alpine.js, Flutter, and Dart.
 
-My passion lies in building tools that support **students**, whether through resource-sharing websites, academic dashboards, or personal projects.
+I’m particularly interested in creating technology-driven solutions for students and educational communities—from resource-sharing platforms and academic dashboards to personal and campus-focused projects.
 
----
+I believe in learning by building, sharing knowledge, and continuously improving.
 
-## 🚀 Tech Stack
+My Philosophy:
+Stay curious. Keep building. Share knowledge.
 
-**Languages:**  
-`C` `C++` `JavaScript` `Dart`
-
-**Frontend:**  
-`HTML` `CSS` `Tailwind CSS`
-
-**Mobile App:**  
-`Flutter`
-
-**Other Tools:**  
-`Git` `GitHub` `VS Code` `Canva`
-
----
-
-## 🌟 Featured Projects
-
-### 🔗 ([BIT Batch 2081 Website](https://bit-batch-2081.vercel.app/))
-> 🎓 A central hub for BIT students featuring syllabus, notes, teacher info, and batchmate profiles.  
-> 💻 Built with: HTML, Tailwind CSS, Alpine.js
-
----
-
-### 📱 [Portfolio Website](https://puskarthakur.vercel.app/)
-> 🧑‍🎨 Showcasing my work, tech stack, resume, and profile card UI.  
-> 💡 Built using responsive and clean Tailwind design principles.
-
----
-
-### 🏫 [CCT Thakur Campus Website](https://cctthakur.vercel.app/)
-> 🏫 Campus-focused web design prototype for Central Campus of Technology (Hattisar), where I study.
-
----
-
-## 🔍 Currently Exploring
-
-- Building mobile apps with **Flutter & Dart**
-- Sharing resources for **BIT students**
-- Deepening knowledge in **UI/UX Design** and **App Performance**
-- Creating academic & personal websites with **Tailwind + Alpine.js**
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: [puskarkumarthakur14@gmail.com](mailto:puskarkumarthakur14@gmail.com)  
-- 🌐 Portfolio: [puskarthakur.vercel.app](https://puskarthakur.vercel.app/)  
-- 📸 Instagram: [@puskarthakur14](https://www.instagram.com/puskarthakur14/)  
-- 💼 LinkedIn: [linkedin.com/in/puskar-kumar-thakur-114775324](https://www.linkedin.com/in/puskar-kumar-thakur-114775324)
-
----
-
-> “Stay curious. Keep building. Share knowledge.” – *Puskar*
+Always learning. Always building. Always improving. 
