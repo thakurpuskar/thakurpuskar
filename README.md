@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Puskar Kumar Thakur 👋</h1>
 
-<h3 align="center">Frontend Developer | BIT Student | Tech Enthusiast</h3>
+<h3 align="center">Frontend Developer | IT Student | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Flutter+%26+Dart+Learner;Building+for+Students+%26+Campuses" alt="Typing SVG" />
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurpuskar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
