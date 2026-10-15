@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Puskar Kumar Thakur 👋</h1>
 
-<h3 align="center">Frontend Developer | IT Student | Tech Enthusiast</h3>
+<h3 align="center">Web Developer | IT Student | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Flutter+%26+Dart+Learner;Building+for+Students+%26+Campuses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Enthusiast;Flutter+%26+Dart+Learner;Building+for+Students+%26+Campuses" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 BIT student at **Tribhuvan University** (Batch 2081)
-- 💻 Focused on **Frontend Development**, **UI/UX**, and **Mobile App Development**
+- 🎓 BIT student at **Central Campus of Technology - Tribhuvan University** (Batch 2081)
+- 💻 Focused on **Web Development**, **UI/UX**, and **Mobile App Development**
 - 🌱 Currently building with **HTML, CSS, Tailwind CSS, JavaScript, Alpine.js, Flutter & Dart**
 - 🎯 Passionate about building **tech-driven solutions for students and educational communities** — resource-sharing platforms, academic dashboards, and campus-focused tools
 - 📚 Believer in **learning by building**, sharing knowledge, and continuous improvement
@@ -72,6 +72,7 @@
 |---|
 | [🔗](https://portfoliocard-amber.vercel.app/) [Protfolio Card](#) |
 | [🔗](https://cctthakur.vercel.app/) [College Website](#) |
+| [🔗](https://bit-batch-2081.vercel.app/) [BIT Batch 2081](#) |
 
 ---
 
@@ -92,5 +93,5 @@
 ---
 
 <p align="center">
-  <i>📍 Dharan, Nepal | Always learning. Always building. Always improving.</i>
+  <i>📍 Nepal | Always learning. Always building. Always improving.</i>
 </p>
