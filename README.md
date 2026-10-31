@@ -73,6 +73,7 @@
 | [🔗](https://portfoliocard-amber.vercel.app/) [Protfolio Card](#) |
 | [🔗](https://cctthakur.vercel.app/) [College Website](#) |
 | [🔗](https://bit-batch-2081.vercel.app/) [BIT Batch 2081](#) |
+| [🔗](https://ita-tech.vercel.app/) [ITA_Tech](#) |
 
 ---
 
